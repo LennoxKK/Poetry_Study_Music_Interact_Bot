@@ -1,0 +1,12 @@
+(play -q /home/lkk/Documents/App/Songs/Poem-songs/jireh_elevation_worship_maverick.mp3)&
+(play -q /home/lkk/Documents/App/Songs/rachel_platten_fight_song.mp3)&
+(play -q /home/lkk/Documents/App/Songs/Poem-songs/alan_jackson_you_can_always_come_home_lyric_video_mp3_18072.mp3)&
+(play -q /home/lkk/Documents/App/Songs/rachel_platten_fight_song.mp3)&
+(play -q /home/lkk/Documents/App/Songs/rachel_platten_fight_song.mp3)&
+(play -q /home/lkk/Documents/App/Songs/rachel_platten_fight_song.mp3)&
+(play -q /home/lkk/Documents/App/Songs/rachel_platten_fight_song.mp3)&
+(play -q /home/lkk/Documents/App/Songs/rachel_platten_fight_song.mp3)&
+(play -q /home/lkk/Documents/App/Songs/rachel_platten_fight_song.mp3)&
+(play -q /home/lkk/Documents/App/Songs/Poem-songs/larry_fleet_where_i_find_god_official_music_video_mp3_74249.mp3)&
+(play -q /home/lkk/Documents/App/Songs/Poem-songs/still_church_online_hillsong_worship_mp3_11675.mp3)&
+
